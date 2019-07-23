@@ -30,5 +30,5 @@ app.get('/about', (req, res) => {
 });*/
 
 app.listen(port, () => {
-	console.log('server funcionando' + port);
+	console.log('server funcionando ' + port);
 }); 
